@@ -328,19 +328,19 @@
     "url": "https://groups.roblox.com/v1/groups/5680533",
     "icon": "https://icons.duckduckgo.com/ip3/groups.roblox.com.ico",
     "slug": "groups-api-endpoint",
-    "status": "up",
-    "uptime": "92.34%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "92.34%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "92.34%",
-    "time": 651,
-    "timeDay": 651,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "status": "down",
+    "uptime": "10.71%",
+    "uptimeDay": "10.71%",
+    "uptimeWeek": "10.71%",
+    "uptimeMonth": "10.71%",
+    "uptimeYear": "10.71%",
+    "time": 613,
+    "timeDay": 613,
+    "timeWeek": 613,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2023-06-03": 10
+      "2023-06-03": 989
     }
   },
   {
