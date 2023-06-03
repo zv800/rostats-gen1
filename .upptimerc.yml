@@ -130,12 +130,12 @@ status-website:
   baseUrl: /rostats-gen1
   logoUrl: https://raw.githubusercontent.com/zv800/rostats-gen1/master/assets/iconthing%20(1).png
   name: rostats-gen1
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Ro-stats** is a open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is not the offical Roblox Status nor the offical Status + Page. Our status page uses real-time data from the Upptime GitHub repository. The Status Page can be used with BDFD.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Ro-Stats
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
