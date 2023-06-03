@@ -5,6 +5,10 @@ repo: rostats-gen1 # The name of this repository
 sites:
   - name: Roblox
     url: https://www.roblox.com/home
+    
+      - name: Roblox devforum
+    url: https://devforum.roblox.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
