@@ -174,8 +174,4 @@ workflowSchedule:
   uptime: "*/10 * * * *"
 
 i18n:
-  footer: Repository from [Ro-stats](https://github.com/zv800/rostats-gen1/), 🔌  Maintained by [Upptime.](https://github.com/upptime/upptime)
-    
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  footer: Repository from [Ro-Status](https://github.com/FearedFusionX/Ro-Status), 🔌  Maintained by [Upptime.](https://github.com/upptime/upptime)
