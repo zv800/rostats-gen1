@@ -6,7 +6,7 @@
     "slug": "roblox-site",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -16,7 +16,7 @@
     "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 1
     }
   },
   {
@@ -118,7 +118,7 @@
     "slug": "avatar-api-endpoint",
     "status": "up",
     "uptime": "49.63%",
-    "uptimeDay": "8.14%",
+    "uptimeDay": "8.15%",
     "uptimeWeek": "49.63%",
     "uptimeMonth": "49.63%",
     "uptimeYear": "49.63%",
@@ -337,7 +337,7 @@
     "slug": "groups-api-endpoint",
     "status": "up",
     "uptime": "5.93%",
-    "uptimeDay": "8.13%",
+    "uptimeDay": "8.14%",
     "uptimeWeek": "5.93%",
     "uptimeMonth": "5.93%",
     "uptimeYear": "5.93%",
@@ -376,11 +376,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnails-api-endpoint",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.15%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 760,
     "timeDay": 829,
     "timeWeek": 760,
