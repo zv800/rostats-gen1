@@ -144,9 +144,6 @@ status-website:
   gtag('js', new Date());
   gtag('config', 'G-97T3SSH4DV');"
   navbar:
-    - title: Status
-      href: /Ro-Status
-    - title: GitHub
       href: https://fearedfusionx.github.io/Ro-Status
   introTitle: "**Ro-Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
   css:   "
