@@ -4,7 +4,7 @@ repo: rostats-gen1 # The name of this repository
 
 sites:
   - name: Roblox Site
-    url: https://www.roblox.com
+    url: https://www.robsdafgaksjhdfgasdflkfahksjdfakhsjdfkhjasdlhjkfasljhkdfljkhasdfgjlhklox.com
     maxResponseTime: 1000
 
   - name: Roblox Devforum
