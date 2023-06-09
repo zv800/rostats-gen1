@@ -166,7 +166,7 @@
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-06-09": 1395,
+      "2023-06-09": 1396,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -382,7 +382,7 @@
     "slug": "thumbnails-api-endpoint",
     "status": "up",
     "uptime": "85.37%",
-    "uptimeDay": "54.34%",
+    "uptimeDay": "54.42%",
     "uptimeWeek": "85.37%",
     "uptimeMonth": "85.37%",
     "uptimeYear": "85.37%",
