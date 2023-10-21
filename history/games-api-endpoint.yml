@@ -1,7 +1,7 @@
 url: https://games.roblox.com
-status: degraded
-code: 503
-responseTime: 12705
-lastUpdated: 2023-10-21T15:55:38.123Z
+status: up
+code: 200
+responseTime: 588
+lastUpdated: 2023-10-21T16:45:49.611Z
 startTime: 2023-06-03T00:51:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
